@@ -1,0 +1,13 @@
+.title {
+  font-size: 1.125rem;
+}
+
+.sub_title {
+  font-size: 1rem;
+}
+
+.title,
+.sub_title {
+  font-weight: 700;
+  line-height: 1.5rem;
+}
